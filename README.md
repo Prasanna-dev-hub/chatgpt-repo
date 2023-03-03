@@ -1,2 +1,2 @@
-# chatgpt-repo
-This repository is a sample chatgpt application built with vanilla javascript.
+# Demo ChatGPT application
+This repository is an sample chatgpt application built with vanilla javascript.
